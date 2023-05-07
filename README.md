@@ -1,5 +1,5 @@
 # SuperStudentParty
-## A local multiplayer game inspired by Mario Party
+## A local multiplayer game inspired by [Super Mario Party](https://www.nintendo.com/store/products/super-mario-party-switch/)
 Main UI:
 ![image](https://user-images.githubusercontent.com/47877537/236661190-3e4adf9f-4d41-48da-91f1-e23e0f062cb3.png)
 Characters:
